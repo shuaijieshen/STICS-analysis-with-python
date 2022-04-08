@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usms>
+<usm nom="WM_N0_W2014">
+<datedebut>275</datedebut>
+<datefin>523</datefin>
+<finit>WQstart_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2014</fclim1>
+<fclim2>WQ.2015</fclim2>
+<culturean>2</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>wheatnew_plt.xml</fplt>
+<ftec>WM_N0_W2014_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N0_W2015">
+<datedebut>280</datedebut>
+<datefin>524</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2015</fclim1>
+<fclim2>WQ.2016</fclim2>
+<culturean>2</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>wheatnew_plt.xml</fplt>
+<ftec>WM_N0_W2015_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N0_W2016">
+<datedebut>276</datedebut>
+<datefin>524</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2016</fclim1>
+<fclim2>WQ.2017</fclim2>
+<culturean>2</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>wheatnew_plt.xml</fplt>
+<ftec>WM_N0_W2016_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N0_W2017">
+<datedebut>275</datedebut>
+<datefin>523</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2017</fclim1>
+<fclim2>WQ.2018</fclim2>
+<culturean>2</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>wheatnew_plt.xml</fplt>
+<ftec>WM_N0_W2017_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N0_W2018">
+<datedebut>274</datedebut>
+<datefin>522</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2018</fclim1>
+<fclim2>WQ.2019</fclim2>
+<culturean>2</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>wheatnew_plt.xml</fplt>
+<ftec>WM_N0_W2018_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N1_W2014">
+<datedebut>275</datedebut>
+<datefin>523</datefin>
+<finit>WQstart_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2014</fclim1>
+<fclim2>WQ.2015</fclim2>
+<culturean>2</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>wheatnew_plt.xml</fplt>
+<ftec>WM_N1_W2014_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N1_W2015">
+<datedebut>280</datedebut>
+<datefin>524</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2015</fclim1>
+<fclim2>WQ.2016</fclim2>
+<culturean>2</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>wheatnew_plt.xml</fplt>
+<ftec>WM_N1_W2015_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N1_W2016">
+<datedebut>276</datedebut>
+<datefin>524</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2016</fclim1>
+<fclim2>WQ.2017</fclim2>
+<culturean>2</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>wheatnew_plt.xml</fplt>
+<ftec>WM_N1_W2016_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N1_W2017">
+<datedebut>275</datedebut>
+<datefin>523</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2017</fclim1>
+<fclim2>WQ.2018</fclim2>
+<culturean>2</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>wheatnew_plt.xml</fplt>
+<ftec>WM_N1_W2017_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N1_W2018">
+<datedebut>274</datedebut>
+<datefin>522</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2018</fclim1>
+<fclim2>WQ.2019</fclim2>
+<culturean>2</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>wheatnew_plt.xml</fplt>
+<ftec>WM_N1_W2018_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N2_W2014">
+<datedebut>275</datedebut>
+<datefin>523</datefin>
+<finit>WQstart_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2014</fclim1>
+<fclim2>WQ.2015</fclim2>
+<culturean>2</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>wheatnew_plt.xml</fplt>
+<ftec>WM_N2_W2014_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N2_W2015">
+<datedebut>280</datedebut>
+<datefin>524</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2015</fclim1>
+<fclim2>WQ.2016</fclim2>
+<culturean>2</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>wheatnew_plt.xml</fplt>
+<ftec>WM_N2_W2015_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N2_W2016">
+<datedebut>276</datedebut>
+<datefin>524</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2016</fclim1>
+<fclim2>WQ.2017</fclim2>
+<culturean>2</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>wheatnew_plt.xml</fplt>
+<ftec>WM_N2_W2016_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N2_W2017">
+<datedebut>275</datedebut>
+<datefin>523</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2017</fclim1>
+<fclim2>WQ.2018</fclim2>
+<culturean>2</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>wheatnew_plt.xml</fplt>
+<ftec>WM_N2_W2017_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N2_W2018">
+<datedebut>274</datedebut>
+<datefin>522</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2018</fclim1>
+<fclim2>WQ.2019</fclim2>
+<culturean>2</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>wheatnew_plt.xml</fplt>
+<ftec>WM_N2_W2018_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N3_W2014">
+<datedebut>275</datedebut>
+<datefin>523</datefin>
+<finit>WQstart_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2014</fclim1>
+<fclim2>WQ.2015</fclim2>
+<culturean>2</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>wheatnew_plt.xml</fplt>
+<ftec>WM_N3_W2014_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N3_W2015">
+<datedebut>280</datedebut>
+<datefin>524</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2015</fclim1>
+<fclim2>WQ.2016</fclim2>
+<culturean>2</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>wheatnew_plt.xml</fplt>
+<ftec>WM_N3_W2015_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N3_W2016">
+<datedebut>276</datedebut>
+<datefin>524</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2016</fclim1>
+<fclim2>WQ.2017</fclim2>
+<culturean>2</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>wheatnew_plt.xml</fplt>
+<ftec>WM_N3_W2016_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N3_W2017">
+<datedebut>275</datedebut>
+<datefin>523</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2017</fclim1>
+<fclim2>WQ.2018</fclim2>
+<culturean>2</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>wheatnew_plt.xml</fplt>
+<ftec>WM_N3_W2017_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N3_W2018">
+<datedebut>274</datedebut>
+<datefin>522</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2018</fclim1>
+<fclim2>WQ.2019</fclim2>
+<culturean>2</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>wheatnew_plt.xml</fplt>
+<ftec>WM_N3_W2018_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N4_W2014">
+<datedebut>275</datedebut>
+<datefin>523</datefin>
+<finit>WQstart_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2014</fclim1>
+<fclim2>WQ.2015</fclim2>
+<culturean>2</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>wheatnew_plt.xml</fplt>
+<ftec>WM_N4_W2014_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N4_W2015">
+<datedebut>280</datedebut>
+<datefin>524</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2015</fclim1>
+<fclim2>WQ.2016</fclim2>
+<culturean>2</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>wheatnew_plt.xml</fplt>
+<ftec>WM_N4_W2015_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N4_W2016">
+<datedebut>276</datedebut>
+<datefin>524</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2016</fclim1>
+<fclim2>WQ.2017</fclim2>
+<culturean>2</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>wheatnew_plt.xml</fplt>
+<ftec>WM_N4_W2016_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N4_W2017">
+<datedebut>275</datedebut>
+<datefin>523</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2017</fclim1>
+<fclim2>WQ.2018</fclim2>
+<culturean>2</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>wheatnew_plt.xml</fplt>
+<ftec>WM_N4_W2017_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N4_W2018">
+<datedebut>274</datedebut>
+<datefin>522</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2018</fclim1>
+<fclim2>WQ.2019</fclim2>
+<culturean>2</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>wheatnew_plt.xml</fplt>
+<ftec>WM_N4_W2018_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N0_M2015">
+<datedebut>159</datedebut>
+<datefin>279</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2015</fclim1>
+<fclim2>WQ.2015</fclim2>
+<culturean>1</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>cornnew_plt.xml</fplt>
+<ftec>WM_N0_M2015_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N0_M2016">
+<datedebut>160</datedebut>
+<datefin>275</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2016</fclim1>
+<fclim2>WQ.2016</fclim2>
+<culturean>1</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>cornnew_plt.xml</fplt>
+<ftec>WM_N0_M2016_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N0_M2017">
+<datedebut>159</datedebut>
+<datefin>274</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2017</fclim1>
+<fclim2>WQ.2017</fclim2>
+<culturean>1</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>cornnew_plt.xml</fplt>
+<ftec>WM_N0_M2017_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N0_M2018">
+<datedebut>159</datedebut>
+<datefin>273</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2018</fclim1>
+<fclim2>WQ.2018</fclim2>
+<culturean>1</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>cornnew_plt.xml</fplt>
+<ftec>WM_N0_M2018_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N0_M2019">
+<datedebut>158</datedebut>
+<datefin>272</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2019</fclim1>
+<fclim2>WQ.2019</fclim2>
+<culturean>1</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>cornnew_plt.xml</fplt>
+<ftec>WM_N0_M2019_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N1_M2015">
+<datedebut>159</datedebut>
+<datefin>279</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2015</fclim1>
+<fclim2>WQ.2015</fclim2>
+<culturean>1</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>cornnew_plt.xml</fplt>
+<ftec>WM_N1_M2015_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N1_M2016">
+<datedebut>160</datedebut>
+<datefin>275</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2016</fclim1>
+<fclim2>WQ.2016</fclim2>
+<culturean>1</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>cornnew_plt.xml</fplt>
+<ftec>WM_N1_M2016_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N1_M2017">
+<datedebut>159</datedebut>
+<datefin>274</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2017</fclim1>
+<fclim2>WQ.2017</fclim2>
+<culturean>1</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>cornnew_plt.xml</fplt>
+<ftec>WM_N1_M2017_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N1_M2018">
+<datedebut>159</datedebut>
+<datefin>273</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2018</fclim1>
+<fclim2>WQ.2018</fclim2>
+<culturean>1</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>cornnew_plt.xml</fplt>
+<ftec>WM_N1_M2018_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N1_M2019">
+<datedebut>158</datedebut>
+<datefin>272</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2019</fclim1>
+<fclim2>WQ.2019</fclim2>
+<culturean>1</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>cornnew_plt.xml</fplt>
+<ftec>WM_N1_M2019_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N2_M2015">
+<datedebut>159</datedebut>
+<datefin>279</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2015</fclim1>
+<fclim2>WQ.2015</fclim2>
+<culturean>1</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>cornnew_plt.xml</fplt>
+<ftec>WM_N2_M2015_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N2_M2016">
+<datedebut>160</datedebut>
+<datefin>275</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2016</fclim1>
+<fclim2>WQ.2016</fclim2>
+<culturean>1</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>cornnew_plt.xml</fplt>
+<ftec>WM_N2_M2016_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N2_M2017">
+<datedebut>159</datedebut>
+<datefin>274</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2017</fclim1>
+<fclim2>WQ.2017</fclim2>
+<culturean>1</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>cornnew_plt.xml</fplt>
+<ftec>WM_N2_M2017_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N2_M2018">
+<datedebut>159</datedebut>
+<datefin>273</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2018</fclim1>
+<fclim2>WQ.2018</fclim2>
+<culturean>1</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>cornnew_plt.xml</fplt>
+<ftec>WM_N2_M2018_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N2_M2019">
+<datedebut>158</datedebut>
+<datefin>272</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2019</fclim1>
+<fclim2>WQ.2019</fclim2>
+<culturean>1</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>cornnew_plt.xml</fplt>
+<ftec>WM_N2_M2019_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N3_M2015">
+<datedebut>159</datedebut>
+<datefin>279</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2015</fclim1>
+<fclim2>WQ.2015</fclim2>
+<culturean>1</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>cornnew_plt.xml</fplt>
+<ftec>WM_N3_M2015_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N3_M2016">
+<datedebut>160</datedebut>
+<datefin>275</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2016</fclim1>
+<fclim2>WQ.2016</fclim2>
+<culturean>1</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>cornnew_plt.xml</fplt>
+<ftec>WM_N3_M2016_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N3_M2017">
+<datedebut>159</datedebut>
+<datefin>274</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2017</fclim1>
+<fclim2>WQ.2017</fclim2>
+<culturean>1</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>cornnew_plt.xml</fplt>
+<ftec>WM_N3_M2017_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N3_M2018">
+<datedebut>159</datedebut>
+<datefin>273</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2018</fclim1>
+<fclim2>WQ.2018</fclim2>
+<culturean>1</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>cornnew_plt.xml</fplt>
+<ftec>WM_N3_M2018_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N3_M2019">
+<datedebut>158</datedebut>
+<datefin>272</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2019</fclim1>
+<fclim2>WQ.2019</fclim2>
+<culturean>1</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>cornnew_plt.xml</fplt>
+<ftec>WM_N3_M2019_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N4_M2015">
+<datedebut>159</datedebut>
+<datefin>279</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2015</fclim1>
+<fclim2>WQ.2015</fclim2>
+<culturean>1</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>cornnew_plt.xml</fplt>
+<ftec>WM_N4_M2015_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N4_M2016">
+<datedebut>160</datedebut>
+<datefin>275</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2016</fclim1>
+<fclim2>WQ.2016</fclim2>
+<culturean>1</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>cornnew_plt.xml</fplt>
+<ftec>WM_N4_M2016_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N4_M2017">
+<datedebut>159</datedebut>
+<datefin>274</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2017</fclim1>
+<fclim2>WQ.2017</fclim2>
+<culturean>1</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>cornnew_plt.xml</fplt>
+<ftec>WM_N4_M2017_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N4_M2018">
+<datedebut>159</datedebut>
+<datefin>273</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2018</fclim1>
+<fclim2>WQ.2018</fclim2>
+<culturean>1</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>cornnew_plt.xml</fplt>
+<ftec>WM_N4_M2018_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+<usm nom="WM_N4_M2019">
+<datedebut>158</datedebut>
+<datefin>272</datefin>
+<finit>WQprocess_ini.xml</finit>
+<nomsol>WQrotation</nomsol>
+<fstation>WQ_sta.xml</fstation>
+<fclim1>WQ.2019</fclim1>
+<fclim2>WQ.2019</fclim2>
+<culturean>1</culturean>
+<nbplantes>1</nbplantes>
+<codesimul>0</codesimul>
+<plante dominance="1">
+<fplt>cornnew_plt.xml</fplt>
+<ftec>WM_N4_M2019_tec.xml</ftec>
+<flai>null</flai>
+</plante>
+<plante dominance="2">
+<fplt>null</fplt>
+<ftec>null</ftec>
+<flai>null</flai>
+</plante>
+</usm>
+</usms>
