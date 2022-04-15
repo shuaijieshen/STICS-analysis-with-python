@@ -1,35 +1,20 @@
-import pandas as pd
 import numpy as np
 import os
-import datetime as dt
-%matplotlib inline
-import matplotlib.pyplot as plt
-import seaborn as sns
 import nlopt
 from xml.dom.minidom import parse
 import paramchange as pc
 
 class ModelRerunner(object):
-    """Reruns a given model with different values of parameters TWDI and SPAN.
+    """Reruns a given model with different values of parameters.
     
-    Returns a pandas DataFrame with simulation results of the model with given
-    parameter values.
+    Returns simulation results of the model with given parameter values.
     """
-    # parameters to calibrate: EFFTB40 CVS
     
     def __init__(self, workspace, usm):
         self.workspace = workspace
         self.usm = usm
         
     def __call__(self, par_values):
-        # Check if correct number of parameter values were provided
-#         if len(par_values) != len(self.parameters):
-#             msg = "Optimizing %i parameters, but only % values were provided!" % (len(self.parameters, len(par_values)))
-#             raise RuntimeError(msg)
-#         # Clear any existing overrides
-#         self.params.clear_override()
-        # Set overrides for the new parameter values
-        # 读取原始作物文件和土壤文件
         model_files = r'E:\material\STICS_training\JavaSTICS-1.41-stics-9.1'
         plant_DOMTree = parse(os.path.join(model_files, r'plant\cornnew_plt.xml')) #读取文件为树
         origin_plant = plant_DOMTree.documentElement
@@ -60,7 +45,7 @@ class ObjectiveFunctionCalculator(object):
     """Computes the objective function.
     
     This class runs the simulation model with given parameter values and returns the objective
-    function as the sum of squared difference between observed and simulated LAI.
+    function as the sum of squared difference between observation and simulation.
     """
     
     def __init__(self, workspace, usm, observations):
