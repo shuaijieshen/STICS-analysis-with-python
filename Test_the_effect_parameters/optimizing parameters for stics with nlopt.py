@@ -71,11 +71,16 @@ class ObjectiveFunctionCalculator(object):
         obj_func = (np.sqrt(np.mean(df_differences_yield**2))+
                     np.sqrt(np.mean(df_differences_biomass**2)))
         return obj_func
+
+    
+workspace = r'E:\WUQIAOmaizeSA'
+usm = 'WM_T_M2017'
+obs = [8, 15]
+
 tcmax_range = [27, 37]
 adil_range = [2.5, 4.5]
 udlaimax_range = [2, 3]
 teoptbis_range = [20, 30]
-
 objfunc_calculator = ObjectiveFunctionCalculator(workspace, usm, obs)
 # Start optimizer with the SUBPLEX algorithm for two parameters
 opt = nlopt.opt(nlopt.LN_SBPLX, 4)
